@@ -1,0 +1,66 @@
+body {
+    margin: 0 100px;
+}
+
+.logo {
+    width: 400px;
+    height: auto;
+}
+
+.navbar {
+    border: 5px solid #2bc1c0;
+    background: #2bc1c0;
+    color: black;
+    font-size: 18px;
+    padding-right: 525px;
+}
+
+td>a {
+    color: #1526e5;
+}
+
+.rrjete-sociale {
+    padding-left: 410px;
+}
+
+.rrs-logo {
+    width: 50px;
+}
+
+.dishes {
+    width: 285px;
+}
+
+.order {
+    text-transform: uppercase;
+}
+
+.tiramisu {
+    padding-left: 70px;
+    max-width: fit-content;
+}
+
+
+.emails {
+    border: 1px solid #2bc1c0;
+    background-color: #2bc1c0;
+    padding: 15px;
+}
+
+select, option {
+    width: 110px;
+}
+
+.daily, .weekly, .monthly {
+    float: left;
+    clear: none;
+    display: block;
+    padding: 0px 1em 0px 8px;
+}
+
+input[type=radio],
+input.radio {
+    float: left;
+    clear: none;
+    margin: 2px 0 0 2px;
+}
